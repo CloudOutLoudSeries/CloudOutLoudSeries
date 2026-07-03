@@ -2,7 +2,7 @@
 
 **Facilities Specialist → Cloud Engineer**
 
-I'm making the transition from managing physical infrastructure to managing cloud infrastructure. After ~10 years running operations, logistics, and vendor management for a 230-person office, I'm applying that same "keep the lights on" mindset to AWS environments — and documenting the whole journey publicly.
+I'm making the transition from managing physical infrastructure to managing cloud infrastructure. After 10+ years running operations, logistics, and vendor management for a 230-person office, I'm applying that same "keep the lights on" mindset to AWS environments — and documenting the whole journey publicly.
 
 ---
 
